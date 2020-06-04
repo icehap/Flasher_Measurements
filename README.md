@@ -1,5 +1,11 @@
 # Flasher_Measurements
 
+## Switch to "kenichi" branch
+```
+$ cd /path/to/Flasher_Meassurements/
+$ git checkout kenichi
+```
+
 ## USAGE
 Just run as following:
 ```
